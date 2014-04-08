@@ -19,6 +19,6 @@ Output
 Directly to standard output, a list of low-quality albums in the format 'Artist  |  Album'
 e.g.
 
-Ladytron  |  Witching Hour
-Neutral Milk Hotel  |  In The Aeroplane Over The Sea
-The Go! Team  |  Thunder, Lightning, Strike
+Ladytron  |  Witching Hour<br/>
+Neutral Milk Hotel  |  In The Aeroplane Over The Sea<br/>
+The Go! Team  |  Thunder, Lightning, Strike<br/>
